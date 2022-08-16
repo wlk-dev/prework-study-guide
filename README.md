@@ -2,7 +2,7 @@
 
 ## Description
 
-Whever you are starting something new it's nice to have a place to write down some key points for later reference. By building this webpage I was able to learn the basics of setting up a webapp and deploying it to a webpage, while also being able to have a place that I can come back and reference information that I have learned.
+Whenever you are starting something new it's nice to have a place to write down some key points for later reference. By building this webpage I was able to learn the basics of setting up a webapp and deploying it to a webpage, while also being able to have a place that I can come back and reference information that I have learned.
 
 ## Installation
 
